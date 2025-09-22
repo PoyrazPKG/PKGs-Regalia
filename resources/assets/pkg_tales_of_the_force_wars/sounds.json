@@ -1,0 +1,20 @@
+{
+  "dragon_eye": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "rise_of_the_pkg_islands:dragon_eye",
+        "stream": false
+      }
+    ]
+  },
+  "snowwraithroar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "rise_of_the_pkg_islands:snowwraithroar",
+        "stream": false
+      }
+    ]
+  }
+}
