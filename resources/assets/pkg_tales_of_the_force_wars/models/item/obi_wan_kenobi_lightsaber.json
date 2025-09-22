@@ -1,7 +1,0 @@
-{
-	"parent": "pkg_tales_of_the_force_wars:custom/obiwan_kenobi_lightsaber",
-	"textures": {
-		"2": "pkg_tales_of_the_force_wars:items/obiwan_kenobi_lightsaber",
-		"particle": "pkg_tales_of_the_force_wars:items/obiwan_kenobi_lightsaber"
-	}
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "pkg_tales_of_the_force_wars:custom/anakin_skywalker_lightsaber",
-  "textures": {
-    "1": "pkg_tales_of_the_force_wars:items/anakin_skywalker_lightsaber",
-    "particle": "pkg_tales_of_the_force_wars:items/anakin_skywalker_lightsaber"
-  }
-}

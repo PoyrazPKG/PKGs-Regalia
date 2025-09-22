@@ -1,8 +1,0 @@
-{
-  "parent": "pkg_tales_of_the_force_wars:custom/holocron",
-  "textures": {
-    "all": "pkg_tales_of_the_force_wars:block/holocron",
-    "particle": "pkg_tales_of_the_force_wars:block/holocron",
-    "2": "pkg_tales_of_the_force_wars:block/holocron"
-  }
-}
