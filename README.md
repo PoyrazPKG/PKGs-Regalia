@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="PKG's Regalia" width="720">
+  <img src="assets/regalia_banner_1024x256.png" alt="PKG's Regalia" width="720">
 </p>
 
 <p align="center">
